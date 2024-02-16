@@ -3,13 +3,13 @@
 
 PROBLEM STATEMENT:
 
-![image](https://github.com/kaviyarasanEaswaran/Electric_Vehicle_Dashboard/assets/129485308/f7b567ce-3f77-410d-af41-66d957e755a3)
-
 1.Total Vehicles:
           
           Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess 
           the market's size and growth.
-  
+          
+  ![image](https://github.com/kaviyarasanEaswaran/Electric_Vehicle_Dashboard/assets/129485308/f7b567ce-3f77-410d-af41-66d957e755a3)
+
 2. Average Electric Range:
 
          Determine the average electric range of the electric vehicles in the dataset to gauge the technological
